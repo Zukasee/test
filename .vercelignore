@@ -1,0 +1,6 @@
+_design
+scripts
+api/*.php
+api/.htaccess
+README.md
+.env*
